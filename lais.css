@@ -1,0 +1,30 @@
+h1 {
+    text-align:center;
+    background-color: papayawhip;
+}
+h3{
+    font-style: oblique;
+    background-color: rgb(230, 179, 179);
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+strong {
+    font-size: larger;
+}
+
+body {
+    background-color:white;
+}
+.imagem1 {
+    width: 20px;
+}
+.unicornio {
+    background-color: peachpuff
+
+}
+.brilho {
+   color: rgb(1, 10, 10);
+}

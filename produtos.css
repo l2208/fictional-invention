@@ -1,0 +1,32 @@
+nav a{
+    text-transform: uppercase;
+    color: rgb(177, 88, 88);
+    font-weight: 300;
+    font-size: 100%;
+    text-decoration: none ;
+}
+
+.imagem1 {
+  width: 20%
+}
+
+.centralizar {
+  text-align: center
+}
+
+body {
+  background-color: rgb(255, 208, 212);
+  text-align:center;
+}
+
+.lista {
+  display: inline-block;
+  vertical-align: top;
+  margin: o 1.5%;
+  padding: 30px 20px;
+  box-sizing: border-box;
+  border-color: rgb(170, 59, 77);
+  border-width: 2px;
+  border-style: solid;
+}
+
